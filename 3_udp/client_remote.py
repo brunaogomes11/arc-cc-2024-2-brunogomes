@@ -42,4 +42,4 @@ def client(hostname, port):
 
 
 if __name__ == '__main__':
-    client('172.24.192.1', 1060)
+    client('192.168.0.119', 1060)
